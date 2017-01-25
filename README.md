@@ -10,6 +10,7 @@ Lein2 is available in this image.
 4. 1.6.0
 5. 1.7.0
 6. 1.8.0
+7. 1.9.0-alpha14
 
 **Services:**
 
